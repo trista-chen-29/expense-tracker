@@ -44,6 +44,14 @@ A full-stack web application that helps users track, categorize, and analyze the
 - Budget limits and alerts
 - Mobile app version
 
+## 🎯 Design Goal
+The main goal of this project is to reduce the friction of expense tracking.
+Many people stop tracking not because tools are missing, but because logging an expense is slow and interrupts daily flow.
+This app prioritizes fast input, sensible defaults, and human-in-the-loop automation over feature complexity.
+
 ## 🧠 Motivation
-I built this project to solve a personal problem: 
-  I often forgot to track my expenses and wanted a faster, simpler way to understand where my money goes. The goal was to design an application that is easy to use, quick to log expenses, and practical enough to become part of a daily routine, while also gaining hands-on experience with full-stack development, authentication, data modeling, and deployment.
+I built this because I often forget to track expenses. My bank notifications remind me that I spent money, but I still don’t log it because traditional trackers feel too slow.
+This project explores a faster, low-friction workflow that makes logging expenses easy enough to become a daily habit.
+
+## 🤖 AI-Assisted Development
+AI tools may be used for boilerplate and suggestions. All logic, data modeling decisions, and debugging are reviewed and validated manually.
