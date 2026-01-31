@@ -1,6 +1,6 @@
 # Expense Tracker — Low-Friction, AI-Assisted Personal Finance (In Progress)
 
-In the AI era, manual data entry is the biggest reason users abandon expense tracking tools.
+> In the AI era, manual data entry is the biggest reason users abandon expense tracking tools.
 This project focuses on low-friction logging, combining fast manual input with AI-assisted categorization to help users understand where their money goes—without interrupting daily flow.
 
 ---
@@ -35,7 +35,7 @@ from spending → recorded expense in under 5 seconds
 ### Learning Defaults
 - The system remembers merchant-to-category mappings to improve future suggestions
 
-| AI accelerates the workflow, but correctness and user trust are prioritized over blind automation.
+> AI accelerates the workflow, but correctness and user trust are prioritized over blind automation.
 
 ---
 
